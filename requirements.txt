@@ -1,0 +1,6 @@
+langchain
+openai==0.28
+tiktoken
+cohere
+chromadb
+Flask==1.1.2
